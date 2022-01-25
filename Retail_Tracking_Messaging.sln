@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Retail_Tracking_Messaging", "Retail_Tracking_Messaging\Retail_Tracking_Messaging.pyproj", "{DD4A431A-F35B-4734-A8C7-BEBF67C544DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD4A431A-F35B-4734-A8C7-BEBF67C544DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD4A431A-F35B-4734-A8C7-BEBF67C544DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {19F47B06-F96C-4D4F-816D-449B8E35A672}
+	EndGlobalSection
+EndGlobal
